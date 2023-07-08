@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = os.environ.get('TOKEN_KITTY')
+SECRET_KEY = os.getenv('TOKEN_KITTY')
 
 DEBUG = os.getenv('DEBUG', False)
 
