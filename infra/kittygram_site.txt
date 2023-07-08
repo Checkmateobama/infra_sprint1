@@ -1,5 +1,5 @@
 IP: 158.160.2.118;
-name_taski: checkmate-obama.ddns.net;
-name_kittygram: obami.bounceme.net;
+name_taski: https://checkmate-obama.ddns.net;
+name_kittygram: https://obami.bounceme.net;
 login: aboba;
 password: 1995;
